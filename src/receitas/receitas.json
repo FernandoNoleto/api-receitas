@@ -1,0 +1,38 @@
+[
+    {
+        "nome":"bolo simples",
+        "preparo":"40",
+        "rendimento":"12",
+        "ingredientes":[
+            {
+                "nome":"acucar",
+                "medida":"cha",
+                "quantidade":"2"
+            },
+            {
+                "nome":"farinha de trigo",
+                "medida":"cha",
+                "quantidade":"3"
+            },
+            {
+                "nome":"margarina",
+                "medida":"sopa",
+                "quantidade":"4"
+            },
+            {
+                "nome":"ovo",
+                "quantidade":"3"
+            },
+            {
+                "nome":"leite",
+                "medida":"cha",
+                "quantidade":"1,5"
+            },
+            {
+                "nome":"fermento",
+                "medida":"sopa",
+                "quantidade":"1"
+            }
+        ]
+    }
+]
